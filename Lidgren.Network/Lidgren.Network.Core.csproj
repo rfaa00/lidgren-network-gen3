@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+		<Title>.NET Standard 2.0 version of Lidgren.Network.</Title>
+		<Description>.NET Standard 2.0 version of Lidgren.Network. No code changes except a new csproj file targeting netstandard2.0.</Description>
+		<PackageVersion>1.0.0</PackageVersion>
+		<PackageId>Lidgren.Network.Core2</PackageId>
+	</PropertyGroup>
+</Project>
